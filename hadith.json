@@ -2,9 +2,10 @@
     "hadiths": [
       {
         "name": "knowledge",
-        "value":{
-          "arabic":"Abu Hube upon him, said:َْمٌِفَوَمْنَسَلَكطَِريًقايَ ْلَتِمُسِفيِهِعْلًماَسَّهَلاَّللُلَهُبِِهطَِريًقاإَِلاْلََّنِةَوَمااْجَتَمَعق وبَ ْي تَي ت هُِمنُغشْْلْتَعليِهمُالَََُِّسكيَنةََُيَ ْت لوَِنكََتاباَّللَِِويَ َتَداَرُسونَهُبَ ْي َن ُهْمإالَّن ََزتاَّللُُْمِِب ويوِرَّْحالَُةوَََّْحفت ُهُمِْالمََالئَكةُوَََََّْكرَُُّللَاُِفيمْعند",
-           "english":" Whoever travels a path in search of knowledge, Allah will make easy Paradise. People do not gather in the houses of for him a path to Allah, reciting the book of Allah and studying it together, but that tranquility will descend upon them, mercy will cover them, angels will surround them, and Allah will mention them to those near him. source Sahih Muslim 2699, Grade: Sahihḥ īḥaṢe: "
+          "value":
+           {
+               "arabic":"Abu Huraira reported",
+               "english":" Whoever travels a path in search of knowledge, Allah will make easy Paradise. People do not gather in the houses of for him a path to Allah, reciting the book of Allah and studying it together, but that tranquility will descend upon them, mercy will cover them, angels will surround them, and Allah will mention them to those near him. source Sahih Muslim 2699, Grade: Sahihḥ īḥaṢe: "
         }
       
         
