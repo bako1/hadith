@@ -3,14 +3,14 @@
     {
       "id":3,
       "title": {
-        "arabic":"قال الله",
-        "english":"Allah Said in his Book",
-        "amharic":"አላህም አለ።",
-        "oromo":" Rabbiin Akkana jedhe"
+        "arabic":"",
+        "english":"",
+        "amharic":"",
+        "oromo":" "
       },
       "value": {
-        "arabic": "إِن تَمْسَسْكُمْ حَسَنَةٌ تَسُؤْهُمْ وَإِن تُصِبْكُمْ سَيِّئَةٌ يَفْرَحُوا۟ بِهَا ۖ وَإِن تَصْبِرُوا۟ وَتَتَّقُوا۟ لَا يَضُرُّكُمْ كَيْدُهُمْ شَيْـًٔا ۗ إِنَّ ٱللَّهَ بِمَا يَعْمَلُونَ مُحِيطٌ",
-        "english": "If good touches you, it distresses them; but if harm strikes you, they rejoice at it. And if you are patient and fear Allah, their plot will not harm you at all. Indeed, Allah is encompassing of what they do. (Surah Imran Ayah 120)",
+        "arabic": "‏إِذَا دَخَلَ شَهْرُ رَمَضَانَ فُتِّحَتْ أَبْوَابُ السَّمَاءِ وَغُلِّقَتْ أَبْوَابُ جَهَنَّمَ وَسُلْسِلَتِ الشَّيَاطِين",
+        "english": "When the month of Ramadan begins, the gates of the heaven are opened, the gates of Hellfire are closed, and the devils are chained. ",
         "amharic":"",
         "oromo":""
       }
